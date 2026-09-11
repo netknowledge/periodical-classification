@@ -7,6 +7,6 @@ Table 1 & Fig. 1: ```tasks\doc_classification```
 Table 2: ```tasks\topic_consistency```
 
 # Structure of Science
-The Sankey diagram (Fig. 2): ```Sankey```
+The Sankey diagram (Fig. 3): ```Sankey```
 
-The map of science (Fig. 3): ```Structure```
+The map of science (Fig. 4): ```Structure```
